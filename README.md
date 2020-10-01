@@ -1,4 +1,4 @@
-# COVID Tracking Project
+# COVID-19 Tracking Project
 
 The COVID Tracking Project collects information from 50 U.S. states, the District of Columbia, and 5 other U.S. territories to provide the most comprehensive testing data we can collect for the novel coronavirus, SARS-CoV-2.
 
@@ -85,3 +85,5 @@ The storybook is now available at `http://localhost:6006`.
 ## How to contribute
 
 No matter how you choose to help, we would love to have you as part of the project. Check our [Contributing Guide](https://github.com/COVID19Tracking/website/blob/master/CONTRIBUTING.md) for information on how to file issues and make pull requests.
+
+thanks and stay safe.
